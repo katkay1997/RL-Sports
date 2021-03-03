@@ -1,0 +1,73 @@
+body{
+
+background-color: #E0FFFF;	
+ font-family: sans-serif;
+color: green;
+font-size: 16px;
+margin: 0;
+ 
+}
+
+.main-container{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+	text-decoration:none;
+ /* This code doesn't affect Nav bar fontor color*/
+}
+
+#main-header {
+	background-color: grey;
+	color: white;
+}
+/* This code doesn't affect Nav bar font or color.*/
+
+#navbar{
+	background: coral;
+	color: white;
+}
+/* This only affects the color of the Navbar itself*/
+
+
+
+#navbar li{
+	display:inline;
+	font-size: 18px;
+	padding-right: 80px;
+
+}
+ /* Only affects Navbar(Not the font color) */
+
+
+a {
+	color:white;
+	text-decoration: none
+	/* text decoration takes the underline off*/
+}
+
+a:hover { 
+	color: #d630f0;
+	transition: 0.5s;
+ }
+
+p{
+	line-height:25px;
+}
+
+.image-wide {
+	width: 500px;
+}
+
+.container{
+	width: 500px;
+}
+
+.image-container{
+	width: 500px;
+	height: 400px;
+}
+
+.image-long
+
+
+
