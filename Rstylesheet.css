@@ -17,13 +17,13 @@ margin: 0;
 }
 
 #main-header {
-	background-color: grey;
+	background-color: #E43039;
 	color: white;
 }
 /* This code doesn't affect Nav bar font or color.*/
 
 #navbar{
-	background: coral;
+	background: #000000;
 	color: white;
 }
 /* This only affects the color of the Navbar itself*/
@@ -46,7 +46,7 @@ a {
 }
 
 a:hover { 
-	color: #d630f0;
+	color: #0066ff;
 	transition: 0.5s;
  }
 
